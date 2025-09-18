@@ -10,7 +10,7 @@ const TimelineItem = ({ event, index }: { event: any; index: number }) => {
 
   return (
     <motion.div 
-      className="flex items-center justify-center mb-8"
+      className="flex items-center justify-start mb-8"
       initial={animationsEnabled ? { opacity: 0, y: 20 } : { opacity: 1, y: 0 }}
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true, amount: 0.3 }}
