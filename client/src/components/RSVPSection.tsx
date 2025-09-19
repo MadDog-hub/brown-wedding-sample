@@ -66,9 +66,9 @@ const RSVPSection = () => {
               className="group relative px-16 py-6 text-lg font-script font-medium tracking-wide bg-primary hover:bg-primary/80 text-primary-foreground shadow-lg transition-all duration-300 border-2 border-primary overflow-hidden rounded-lg"
               data-testid="button-rsvp"
             >
-              <a 
-                href="https://ejkrizzarsvp.replit.app" 
-                target="_blank" 
+              <a
+                href="https://chriskatewed.replit.app/"
+                target="_blank"
                 rel="noopener noreferrer"
                 className="relative inline-flex items-center justify-center w-full h-full z-10"
               >

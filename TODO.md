@@ -1,0 +1,2 @@
+- [x] Edit client/src/components/MemorableMomentsSection.tsx: Change "Open All Photos" button className from `bg-primary-foreground hover:bg-primary-foreground/90 text-primary` to `bg-primary hover:bg-primary/90 text-primary-foreground`
+- [x] Edit client/src/components/RSVPSection.tsx: Change RSVP button href from "https://ejkrizzarsvp.replit.app" to "https://chriskatewed.replit.app/"
